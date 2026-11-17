@@ -1,10 +1,8 @@
-# drug-computing-v2
+# Drug Discovery Computing Techniques: Educational Materials
 
-Educational materials for course on Computing Techniques in Drug Discovery.
+This repository provides an introduction to computing techniques in drug discovery, and presents educational materials for David Mobley's course Drug Discovery Computing Techniques. Materials here focus on providing an introduction to computing techniques in drug discovery, including (but not limited to) topics covered in the course. The focus in this version of the course is on solving problems in this space using AI agents/coding agents, and the course does not have a programming prerequisite.
 
-This is the AI-oriented rewrite of [MobleyLab/drug-computing](https://github.com/MobleyLab/drug-computing),
-for UCI PharmSci 175/275 beginning Winter 2027. Most material from the earlier
-version of the course does not carry over.
+Material related to an earlier version of the [MobleyLab/drug-computing](https://github.com/MobleyLab/drug-computing) course is also available, but most material from the earlier version of the course (taught prior to Winter 2027) does not carry over.
 
 ## License
 
