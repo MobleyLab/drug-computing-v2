@@ -2,9 +2,6 @@
 
 *Agent-based analysis of experimental pH-solubility data*
 
-**DRAFT 2026-11-17 — not yet reviewed by Luna.** 
-**WOKRING ON 3.**
-
 - **Released:** Mon Jan 11 · **Due:** Mon Jan 25, before class (9:00 am)
 - **Graded for:** PharmSci 275 only
 - **Expected effort:** several hours
@@ -82,9 +79,9 @@ different method, on four of the compounds.
 
 ### 1. Predict before you fit (your own work, no agent)
 For each of the six compounds, **before asking the agent to fit anything**:
-- identify or speculate about the ionizable group(s) and whether each is acidic or basic; (hint: look at those compound structures by using a free browser-base SMILES to structure convert [tool](https://www.moldraw.com/tools/free-chem-tools/smiles-to-structure.html)) 
-- estimate a rough pKa for each from your chemistry knowledge (or guess one); (hint: look up the reference pKa of your speculate ionizable group(s), then consider how substituent shift it)
-- sketch or describe the log S vs. pH shape you expect. (hint: look at solubility equation for an monoprotic acid above, how does log S behave when pH << pKa? and when pH >> pka?)
+- identify or speculate about the ionizable group(s) and whether each is acidic or basic; (_hint_: look at those compound structures by using a free browser-base SMILES to structure convert [tool](https://www.moldraw.com/tools/free-chem-tools/smiles-to-structure.html)) 
+- estimate a rough pKa for each from your chemistry knowledge (or guess one); (_hint_: look up the reference pKa of your speculate ionizable group(s), then consider how substituent shift it)
+- sketch or describe the log S vs. pH shape you expect. (_hint_: look at solubility equation for an monoprotic acid above, how does log S behave when pH << pKa? and when pH >> pka?)
 
 **It is OK if you're wrong here!** What we want to see is not that you're right, but that you thought about it and came up with a shape that's consistent with your understanding.
 
@@ -99,7 +96,7 @@ pH for each. The spreadsheet has both a "Starting pH" and a "Final pH"
 column. **State which you used and why**, in one or two sentences.
 
 ### 3. Fit and choose a model
-For each compound, fit one or more pH-solubility models. Report:
+For each of the six compounds, fit one or more pH-solubility models to its experimental data. Report:
 - the model you chose, and why (both statistically and chemically);
 - pKa value(s) with an uncertainty estimate, and how you obtained it;
 - the plot with data and fitted curve.
